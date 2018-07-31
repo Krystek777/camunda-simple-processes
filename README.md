@@ -12,7 +12,7 @@ Klasa UserController to prosty RestController, ktory pobiera parametry metoda Ge
 Manual Process - prezentacja Manual Task, ktory w zasadzie nic nie robi
 
 Embedded Form Process - uzywa formularza w pliku task-form.html, ktory wczytuje imie uzytkownika i jego ulubiony dowcip wypisywany do konoli prze klase JokeDelegate.
-http://localhost:8080 - wejscie do panelu Camunda. uzytkownik - demo
+http://localhost:8080 - wejscie do panelu Camunda. uzytkownik - demo, haslo - demo (tak jak w application.yml)
 
 przykladowe zapytania wbudownaego w Camunde REST API:
 
