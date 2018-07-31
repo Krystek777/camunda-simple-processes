@@ -1,0 +1,7 @@
+com/opitz/utility/ProcessManager.class
+com/opitz/utility/CamundaFilter.class
+com/opitz/delegate/LoggerDelegate.class
+com/opitz/WebappProcessApplication.class
+com/opitz/delegate/SwimDelegate.class
+com/opitz/utility/UserProcessApplication.class
+com/opitz/controller/UserController.class

@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66f019b4-34c1-4948-86d2-15594215f1e1" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="66f019b4-34c1-4948-86d2-15594215f1e1" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -218,8 +216,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1028" />
-    <option name="y" value="256" />
+    <option name="x" value="1103" />
+    <option name="y" value="240" />
     <option name="width" value="1751" />
     <option name="height" value="1056" />
   </component>
@@ -328,7 +326,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533043894826" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533044220924" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -412,12 +410,12 @@
       <workItem from="1532354597490" duration="1496000" />
       <workItem from="1532427605054" duration="9103000" />
       <workItem from="1532507068397" duration="46463000" />
-      <workItem from="1533041622644" duration="1582000" />
+      <workItem from="1533041622644" duration="1837000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74613000" />
+    <option name="totallyTimeSpent" value="74868000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -430,6 +428,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1028" y="256" width="1751" height="1056" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49848944" visible="true" weight="0.19648094" />
       <window_info id="Structure" order="1" sideWeight="0.5008104" side_tool="true" weight="0.31260997" />
