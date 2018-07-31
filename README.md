@@ -17,10 +17,10 @@ http://localhost:8080 - wejscie do panelu Camunda. uzytkownik - demo, haslo - de
 przykladowe zapytania wbudownaego w Camunde REST API:
 
 lista wszystkich procesow
-http://localhost:8080/rest/process-definition
+http://localhost:8080/rest/process-definition (GET)
 
 lista taskow
-http://localhost:8080/rest/task
+http://localhost:8080/rest/task (GET)
 
 rozpoczenie procesu userProcess
-http://localhost:8080/rest/process-definition/key/userProcess/start
+http://localhost:8080/rest/process-definition/key/userProcess/start (POST)
