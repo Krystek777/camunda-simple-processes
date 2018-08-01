@@ -6,7 +6,7 @@ Swim Process - ServiceTask sterowany za pomoca klasy SwimDelegate.
 
 User Process - pobiera dane za pomoca formularza w User Task i dodaje lub odejmuje liczbe 1 od przesylanego identyfikatora (IncrementDelegate i DecrementDelegate).
 
-User Start Form Process - To samo co powyzej, z tym, ze formularz zawarty jest juz w evencie startowych,a nie w User Task.
+User Start Form Process - To samo co powyzej, z tym, ze formularz zawarty jest juz w evencie startowym,a nie w User Task.
 Klasa UserController to prosty RestController, ktory pobiera parametry metoda Get i uruchamia ten proces z poziomu kodu Java.
 
 Manual Process - prezentacja Manual Task, ktory w zasadzie nic nie robi
